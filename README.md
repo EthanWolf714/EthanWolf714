@@ -3,8 +3,7 @@
 **`Game Programmer`**
 
 
-
-I am a aspiring game developer learning programming
+Computer Science graduate learning the ins and outs of game programmer. My goal is to create amazing player experiences through gameplay and story telling.
 
 ### 🧰 Languages and Tools
 
